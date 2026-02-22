@@ -31,7 +31,7 @@ Prometheus, Grafana
 
 ## 🌍 Portfolio
 
-🔗 https://bk-thakur.bittuPortfolio.com
+🔗 https://bk-thakur.github.io
 
 ---
 
